@@ -1,5 +1,5 @@
 function Hero() {
-	return <h1>HERO</h1>
+	return <h1>HERO FINISH</h1>
 }
 
 export default Hero
